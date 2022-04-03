@@ -26,14 +26,14 @@ h1 {
     margin-left: 40px;
     opacity: 75%;
     border-radius: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .charactercontent {
     display: inline-block;
     margin: 0 0 0 100px;
     vertical-align: 50px;
-    line-height: 50px;
+    line-height: 3;
     width: 40%;
     color: whitesmoke;
     font-size: 18px;
