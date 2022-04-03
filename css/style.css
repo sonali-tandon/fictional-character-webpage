@@ -6,7 +6,7 @@ body {
 }
 
 .contentbackground {
-    background-image: url("/images/backgroundimage.PNG");
+    background-image: url("../images/backgroundimage.PNG");
     height: 950px;
     width: 100%;
     background-repeat: no-repeat;
@@ -71,7 +71,7 @@ h2 {
 
 .footer {
     margin-top: 50px;
-    background-image: url("/images/footer.PNG");
+    background-image: url("../images/footer.PNG");
     height: 150px;
     width: 100%;
     background-repeat: no-repeat;
